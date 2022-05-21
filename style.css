@@ -1,0 +1,96 @@
+main {
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+
+main {
+    display: block;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+    margin-bottom: 0;
+    display: block;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-inline-start: 0px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    font-size: 1.4rem;
+    margin: 15px 0 5px 0;
+}
+
+figcaption {
+    display: block;
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+}
+
+section {
+    display: block;
+}
+
+::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
+li {
+    display: list-item;
+    margin: 16px 0;
+    text-align: center;
+}
+
+ul {
+    max-width:550px;
+    line-height: 1.6;
+    list-style-type: disc;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+a {
+    color: #477ca7;
+}
+
